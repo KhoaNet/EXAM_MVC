@@ -1,6 +1,6 @@
 # EXAM_MVC
 
-Build a question management mvc website (Asp.net core)
+#Build a question management mvc website (Asp.net core)
 + 1) 
 	- Create Table Question:   Id , Question name,Question type Id
 	- Create Table Question type: Id,Question type name
@@ -15,6 +15,8 @@ Build a question management mvc website (Asp.net core)
 		Update date, 
 		Update_id
 	- Add, edit, delete question
-Note: 
+
+#Note: 
 	- Basic html Ui
 	- Freely build databases
+	- Free to search
