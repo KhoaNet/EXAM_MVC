@@ -19,4 +19,4 @@
 
 =======
 
-#Note: Basic html Ui,Freebuild databases,Free to search
+#Note: Basic html Ui,Free build databases,Free to search
